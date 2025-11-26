@@ -1,0 +1,18 @@
+2025-11-26 18:58:20,439 - INFO - Iniciando coleta de previsão meteorológica
+2025-11-26 18:58:20,439 - INFO - Coletando dados de Centro
+2025-11-26 18:58:21,351 - INFO - Sucesso: Centro
+2025-11-26 18:58:21,351 - INFO - Dados salvos em data\raw\location_001_raw.json
+2025-11-26 18:58:21,351 - INFO - Metadados salvos em data\raw\metadata.json
+2025-11-26 18:58:21,351 - INFO - Coleta concluída
+2025-11-26 19:01:36,720 - INFO - Iniciando coleta de previsão meteorológica
+2025-11-26 19:01:36,723 - INFO - Coletando dados de Zona Leste
+2025-11-26 19:01:37,645 - INFO - Sucesso: Zona Leste
+2025-11-26 19:01:37,645 - INFO - Dados salvos em data\raw\location_001_raw.json
+2025-11-26 19:01:37,650 - INFO - Metadados salvos em data\raw\metadata.json
+2025-11-26 19:01:37,650 - INFO - Coleta concluída
+2025-11-26 19:03:58,389 - INFO - Iniciando coleta de previsão meteorológica
+2025-11-26 19:03:58,389 - INFO - Coletando dados de Una Contagem
+2025-11-26 19:03:59,313 - INFO - Sucesso: Una Contagem
+2025-11-26 19:03:59,313 - INFO - Dados salvos em data\raw\location_001_raw.json
+2025-11-26 19:03:59,313 - INFO - Metadados salvos em data\raw\metadata.json
+2025-11-26 19:03:59,313 - INFO - Coleta concluída

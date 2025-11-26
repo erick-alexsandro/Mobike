@@ -1,0 +1,23 @@
+{
+  "api_source": "Open-Meteo Forecast API",
+  "api_url": "https://api.open-meteo.com/v1/forecast",
+  "api_type": "Previsão",
+  "variables": [
+    "temperature_2m",
+    "relative_humidity_2m",
+    "weather_code",
+    "wind_speed_10m",
+    "precipitation"
+  ],
+  "locations": [
+    {
+      "id": "location_001",
+      "name": "Una Contagem",
+      "latitude": -19.924727891813507,
+      "longitude": -44.0751854493093
+    }
+  ],
+  "collection_timestamp": "2025-11-26T19:03:59.313965",
+  "coordinate_system": "WGS84 (EPSG:4326)",
+  "timezone": "America/Sao_Paulo"
+}

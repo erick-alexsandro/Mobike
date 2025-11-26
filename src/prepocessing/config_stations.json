@@ -1,0 +1,16 @@
+{
+  "locations": [
+    {
+      "id": "location_001",
+      "name": "Una Contagem",
+      "latitude": -19.924727891813507,
+      "longitude": -44.0751854493093
+    }
+  ],
+  "metadata": {
+    "description": "Coordenadas de exemplo para coleta de dados",
+    "coordinate_system": "WGS84 (EPSG:4326)",
+    "notes": "Latitude e longitude devem estar sempre em graus decimais.",
+    "validation": "Latitude entre -90 e 90; Longitude entre -180 e 180"
+  }
+}
