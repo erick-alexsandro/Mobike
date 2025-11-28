@@ -15,9 +15,15 @@
       "name": "Una Contagem",
       "latitude": -19.924727891813507,
       "longitude": -44.0751854493093
+    },
+    {
+      "id": "location_002",
+      "name": "Av. Afonso Pena - Belo Horizonte",
+      "latitude": -19.932859692090876,
+      "longitude": -43.92994898887907
     }
   ],
-  "collection_timestamp": "2025-11-26T19:03:59.313965",
+  "collection_timestamp": "2025-11-28T14:00:54.875641",
   "coordinate_system": "WGS84 (EPSG:4326)",
   "timezone": "America/Sao_Paulo"
 }

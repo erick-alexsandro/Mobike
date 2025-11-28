@@ -51,12 +51,10 @@ class OpenMeteoFetcher:
         return True
     
     def fetch_station_data(self, location):
-        # Validar coordenadas
         if not self._validate_coordinates(location['latitude'], location['longitude']):
             logger.error(f"Coordenadas inválidas para {location['name']}")
             return None
         
-        # Usa API Forecast para previsões futuras
         params = {
             "latitude": location['latitude'],
             "longitude": location['longitude'],
@@ -128,8 +126,7 @@ class OpenMeteoFetcher:
     def collect_all(self):
         logger.info("Iniciando coleta de previsão meteorológica")
         
-        if self.locations:
-            location = self.locations[0]
+        for location in self.locations:
             data = self.fetch_station_data(location)
             if data:
                 self.save_raw_data(data, location['id'])

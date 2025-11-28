@@ -16,3 +16,12 @@
 2025-11-26 19:03:59,313 - INFO - Dados salvos em data\raw\location_001_raw.json
 2025-11-26 19:03:59,313 - INFO - Metadados salvos em data\raw\metadata.json
 2025-11-26 19:03:59,313 - INFO - Coleta concluída
+2025-11-28 14:00:53,045 - INFO - Iniciando coleta de previsão meteorológica
+2025-11-28 14:00:53,045 - INFO - Coletando dados de Una Contagem
+2025-11-28 14:00:53,975 - INFO - Sucesso: Una Contagem
+2025-11-28 14:00:53,983 - INFO - Dados salvos em data\raw\location_001_raw.json
+2025-11-28 14:00:53,983 - INFO - Coletando dados de Av. Afonso Pena - Belo Horizonte
+2025-11-28 14:00:54,874 - INFO - Sucesso: Av. Afonso Pena - Belo Horizonte
+2025-11-28 14:00:54,875 - INFO - Dados salvos em data\raw\location_002_raw.json
+2025-11-28 14:00:54,875 - INFO - Metadados salvos em data\raw\metadata.json
+2025-11-28 14:00:54,875 - INFO - Coleta concluída
