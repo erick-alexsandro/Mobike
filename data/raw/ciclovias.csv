@@ -1,0 +1,93 @@
+NOME_LOGRADOURO,COORDENADAS,weather_code,wind_speed_10m,precipitation,sensacao_termica,chuva_acumulada_3h,rajada_maxima_3h,rótulo
+Av. Afonso Pena - Belo Horizonte,"-19.932859692090876, -43.92994898887907",3,4.7,2.42,27.5,7.94,5.7,Médio
+Av. Afonso Vaz de Melo - Barreiro,"-19.977022807721806, -44.025169845118995",4,39.9,11.87,26.1,36.43,56.9,Alto
+Av. Américo Vespúcio - Belo Horizonte,"-19.900944794957724, -43.96513309107364",2,0.6,0.26,17.8,0.37,0.8,Baixo
+Av. Bernardo Monteiro - Belo Horizonte,"-19.92873677640693, -43.92894424264512",4,41.1,11.07,28.5,33.53,60.3,Alto
+Av. Carandaí - Belo Horizonte,"-19.928292780707103, -43.92820802214538",4,39.2,9.63,20.9,29.42,53.3,Alto
+Av. Country Clube de Belo Horizonte - Leste,"-19.92549138049018, -43.88547851999643",1,12.9,0.22,24.0,0.0,18.6,Baixo
+Av. Desembargador Felippe Immesi,"-19.829815369297073, -43.97206158142934",2,0.4,0.0,25.7,1.31,0.6,Baixo
+Av. do Canal - Barreiro,"-19.979699699638427, -44.03125182198236",2,0.1,0.23,24.5,0.65,0.2,Baixo
+Av. Álvares Cabral - Belo Horizonte,"-19.92847781150979, -43.9425559003124",2,8.4,0.0,18.0,0.07,12.2,Baixo
+Av. dos Andradas - Belo Horizonte,"-19.919855159252176, -43.9193378888753",4,25.2,5.76,20.7,16.53,33.4,Alto
+Av. Eliseu Resende - Belo Horizonte,"-19.96312937083472, -43.99732376511603",3,15.9,1.3,30.1,3.27,21.7,Médio
+Av. Fleming - Pampulha,"-19.868251858506035, -43.98562010037493",2,6.0,0.0,26.3,0.0,7.7,Baixo
+Avenida Francisca Gregory,"-19.832021084257615, -43.980963319207895",5,33.4,6.21,29.0,18.67,42.1,Alto
+Av. José do Patrocínio Pontes - Mangabeiras,"-19.958245400728757, -43.91307711973891",4,31.5,19.29,26.5,59.88,42.6,Alto
+Av. Olinto Meireles,"-19.98240995702702, -44.01007200439487",1,25.8,0.01,28.7,0.0,35.6,Baixo
+Av. Otacílio Negrão de Lima - Pampulha,"-19.851285573178604, -43.986304489047775",3,4.7,2.01,25.7,8.4,6.1,Médio
+Av. Paraná - Centro,"-19.918094966023286, -43.94215831304431",5,37.4,17.63,24.3,54.01,51.3,Alto
+Av. Pres. Tancredo Neves - Pampulha,"-19.88693426585338, -43.99387173508416",5,24.5,10.29,31.2,30.5,35.9,Alto
+Av. Santos Dumont - Centro,"-19.91568636329588, -43.93788425042678",1,8.9,0.25,23.5,0.78,12.1,Baixo
+Av. Saramenha - Norte,"-19.840809374570572, -43.92331387741377",3,5.4,3.3,20.7,9.8,7.6,Médio
+Av. Senador Levindo Coelho - Barreiro,"-20.003492731418746, -44.03526840439423",4,41.9,19.14,30.7,58.79,60.3,Alto
+Av. Waldyr Soeiro Emrich,"-19.981758256109924, -44.0067754062458",0,12.8,0.0,31.5,0.41,19.1,Baixo
+Praça Rio Branco,"-19.914475182853874, -43.94098883113625",3,1.6,1.44,18.4,5.28,2.2,Médio
+Praça Rui Barbosa,"-19.916085070015036, -43.934842854418896",1,24.1,0.0,28.2,0.29,34.7,Baixo
+Rua Antônio Eustáquio Piazza - Barreiro,"-19.986560414907764, -44.03912164672304",5,25.6,15.11,15.4,45.24,38.1,Alto
+R. Fernandes Tourinho - Belo Horizonte,"-19.938219423646704, -43.9398640350828",4,40.5,12.06,30.3,36.43,60.1,Alto
+R. Gonçalves Dias - Belo Horizonte,"-19.92982032034998, -43.94173217741137",3,9.3,2.2,21.2,6.29,11.6,Médio
+R. Padre Belchior - Centro,"-19.92215903268722, -43.94209523323221",0,5.3,0.0,27.1,0.0,7.0,Baixo
+R. Pastor Francisco Pessoa - Barreiro,"-19.976961931905382, -44.02754015042496",0,8.6,0.14,24.0,1.07,11.2,Baixo
+R. Piauí - Belo Horizonte,"-19.929666251464383, -43.926523592754776",2,10.2,0.0,27.7,0.0,12.5,Baixo
+Rua Professor Moraes - Belo Horizonte,"-19.93651089350849, -43.93107207741122",2,0.6,0.0,19.4,0.0,0.9,Baixo
+R. Rio de Janeiro - Belo Horizonte,"-19.926296535935034, -43.9407004736904",1,4.9,0.0,24.0,0.0,7.0,Baixo
+R. Tombos - Belo Horizonte,"-19.921017218148734, -43.96930917370973",3,18.8,1.08,25.5,3.75,27.4,Médio
+R. Úrsula Paulino - Belo Horizonte,"-19.958090291780128, -43.98700499090322",3,2.7,2.13,31.3,7.65,3.3,Médio
+Viaduto Itamar Franco - Belo Horizonte,"-19.891782118496, -43.97884667741241",5,28.3,12.3,30.8,37.86,41.3,Alto
+Viaduto Itamar Franco - Belo Horizonte,"-19918270553938400,  -43.96074207741167",5,28.0,5.75,28.4,17.79,39.1,Alto
+Av. Rogaciano Leite,,5,22.3,6.89,27.0,20.18,31.5,Alto
+Av. Sen. Carlos Jereissati,,2,5.6,0.0,20.3,0.0,8.2,Baixo
+Av. Washington Soares,,3,5.6,3.33,18.5,9.72,7.7,Médio
+Via Expressa,,3,1.6,3.46,27.8,10.0,2.1,Médio
+Av. Bernardo Manuel,,0,8.1,0.51,28.4,1.19,11.7,Baixo
+Av. Godofredo Maciel,,2,0.6,0.0,28.3,0.0,0.8,Baixo
+Av. D (José Walter),,4,20.1,14.08,27.7,41.86,24.3,Alto
+Av. Eng. Humberto Monte,,2,0.0,0.31,28.1,1.69,0.0,Baixo
+Av. Mister Hull,,4,22.1,13.21,19.1,38.79,28.8,Alto
+Av. Sgt. Hermínio Sampaio,,0,4.5,0.0,30.7,0.0,6.4,Baixo
+Av. Bezerra de Menezes,,1,6.5,0.0,26.1,0.0,8.5,Baixo
+Av. Maestro Lisboa,,3,11.1,1.79,21.8,6.49,16.1,Médio
+Ciclovias (Entre Rua Cel. João Correia e limite de Fortaleza),,0,0.8,0.0,23.9,0.0,1.0,Baixo
+Av. Pres. Castelo Branco,,3,13.3,4.11,19.1,12.85,19.9,Médio
+Rua Fernando F. de Melo,,5,39.0,8.27,24.5,25.19,55.9,Alto
+Av. Alberto Nepomuceno,,1,3.7,0.37,26.6,2.16,4.5,Baixo
+Av. Des. Gonzaga,,1,18.9,0.07,23.3,0.03,25.9,Baixo
+Rua Taquatiara,,0,32.9,0.0,21.6,0.0,49.2,Médio
+Rua Granja Castelo,,1,1.6,0.49,24.9,0.23,2.2,Baixo
+Rua Herbene,,4,23.3,19.26,28.6,55.55,29.3,Alto
+Rua Léa Pompeu,,1,18.3,0.05,19.4,0.28,24.6,Baixo
+Av. Rogaciano Leite (ciclofaixa),,3,9.0,2.81,20.9,9.06,12.1,Médio
+Av. Gen. Osório de Paiva,,3,0.3,2.0,25.3,6.39,0.5,Médio
+Perimetral (N/S),,3,10.6,3.22,19.7,8.44,15.0,Médio
+Perimetral (S/N),,3,12.3,1.78,34.1,6.17,16.3,Médio
+Rua Nereu Ramos,,4,28.9,16.53,24.4,49.03,36.5,Alto
+Av. Sen. Virgílio Távora,,2,11.2,0.0,21.0,0.0,15.7,Baixo
+Rua Carlos Juaçaba,,5,22.6,6.47,21.6,18.83,30.0,Alto
+Rua José Meneleu,,0,1.4,0.0,22.3,0.06,1.8,Baixo
+Rua Coronel Solon/Saldanha Marinho,,3,1.9,1.62,23.7,3.68,2.8,Médio
+Rua Pe. Miguelino/Pe. Matos Serra,,1,7.0,0.1,15.2,0.27,9.9,Baixo
+Praça Tamandaré,,3,16.7,3.12,31.8,9.69,23.5,Médio
+Rua Joaquim Nabuco,,1,2.7,0.0,24.7,0.89,3.8,Baixo
+Rua Osvaldo Cruz (sul),,5,33.4,18.84,26.8,56.65,45.4,Alto
+Rua Osvaldo Cruz (norte),,5,25.8,20.0,32.1,58.92,37.3,Alto
+Rua Júlio Gaspar,,5,28.6,19.91,19.7,59.85,38.6,Alto
+Rua Castro e Silva,,1,8.8,0.28,21.4,0.0,10.7,Baixo
+Rua Antônio Bandeira,,3,16.1,1.2,29.5,2.7,21.3,Médio
+Rua Casemiro de Abreu,,5,36.2,5.96,25.8,16.8,48.9,Alto
+Rua Dr. Manoel Teófilo,,4,32.0,16.46,27.4,47.85,45.3,Alto
+Av. Santos Dumont (trecho papicu 1),,1,4.0,0.0,23.5,0.0,5.0,Baixo
+Rua Rev. Bolivar Pinto Bandeira,,1,6.0,0.0,25.7,0.9,7.5,Baixo
+Av. Oliveira Paiva,,3,3.1,1.83,29.6,7.31,3.9,Médio
+Rua César Fonseca,,1,3.5,0.36,32.3,0.63,4.5,Baixo
+Rua Urucutuba,,1,5.3,0.06,14.9,1.05,7.5,Baixo
+Rua São Francisco,,5,29.5,13.2,30.1,39.3,37.6,Alto
+Rua Sabino Feijão,,3,1.8,2.5,36.2,6.19,2.5,Alto
+Av. Duque de Caxias,,5,42.5,15.97,30.0,48.47,57.3,Alto
+Av. Padre Ibiapina,,5,35.2,19.27,24.8,58.0,48.3,Alto
+Rua Jacinto Matos,,3,2.8,1.42,23.0,5.72,4.1,Médio
+Rua Eng. Marcus Maurício,,0,9.2,0.11,26.5,0.0,12.1,Baixo
+Av. José Jatahy,,5,28.3,15.84,22.0,49.74,40.4,Alto
+Rua Cel. Manuel Jesuíno,,4,43.3,17.81,26.7,54.72,57.5,Alto
+Av. Santos Dumont (trecho papicu 3),,4,20.2,17.97,26.4,53.9,26.4,Alto
+Av. dos Jangadeiros,,1,4.8,0.07,29.5,0.0,7.1,Baixo
+Av. Santos Dumont (alça),,4,29.1,17.01,22.2,50.46,36.6,Alto
